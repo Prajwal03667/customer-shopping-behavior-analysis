@@ -22,11 +22,9 @@ segments, and product performance to improve decision-making.
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here after uploading to GitHub)
-
 Example:
 
-![Dashboard Preview](dashboards/dashboard-preview.png)
+![Dashboard Preview](dashboard/dashboard-preview.png)
 
 ------------------------------------------------------------------------
 
