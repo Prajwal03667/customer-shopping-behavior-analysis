@@ -24,7 +24,7 @@ segments, and product performance to improve decision-making.
 
 Example:
 
-![Dashboard Preview](dashboard/dashboard-preview.png)
+![Dashboard Preview](Dashboard/dashboard-preview.png)
 
 ------------------------------------------------------------------------
 
